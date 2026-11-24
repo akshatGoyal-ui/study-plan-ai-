@@ -1,0 +1,6 @@
+streamlit>=1.40,<2.0
+pandas>=2.2,<4.0
+plotly>=5.20,<7.0
+reportlab>=4.2,<5.0
+# Optional in-app API mode; Prompt Mode and local planning do not require API credentials.
+openai>=1.30,<3.0
